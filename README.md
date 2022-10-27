@@ -11,6 +11,6 @@ I denne oppgaven la jeg til testlogging i maven og lagde en workflow gjennom git
 <img src="https://imgur.com/3qxAXdR.png">
 
 * Til slutt endret jeg på testene at det ble det grønt, som betyr at testene passerer.
-<img src="https://imgur.com/Rx4lJEG.png"
+<img src="https://imgur.com/Rx4lJEG.png">
 
      
