@@ -5,7 +5,7 @@ import static org.junit.jupiter.api.Assertions.assertEquals;
 public class Leapyear_Test {
 
     @Test
-    public void when_divided_by_4_and_not_100() {assertEquals( true, Leapyear.isLeapYear(1916));}
+    public void when_divided_by_4_and_not_100() {assertEquals( false, Leapyear.isLeapYear(1916));}
 
     @Test
     public void when_divided_by_400() {assertEquals(true, Leapyear.isLeapYear(2000));
